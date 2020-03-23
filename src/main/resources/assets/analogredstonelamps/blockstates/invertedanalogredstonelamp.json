@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "light=0": { "model": "analogredstonelamps:block/analogredstonelamp" },
+    "light=1": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=2": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=3": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=4": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=5": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=6": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=7": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=8": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=9": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=10": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=11": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=12": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=13": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=14": { "model": "analogredstonelamps:block/analogredstonelampon" },
+    "light=15": { "model": "analogredstonelamps:block/analogredstonelampon" }
+  }
+}

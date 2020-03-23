@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "analogredstonelamps",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Analog Redstone Lamps",
+  "description": "Analog Redstone Lamps",
   "authors": [
     "Tfarecnim"
   ],
@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "tfar.example.ExampleMod"
+      "tfar.analogredstonelamps.AnalogRedstoneLamps"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "analogredstonelamps.mixins.json"
   ],
 
   "depends": {
